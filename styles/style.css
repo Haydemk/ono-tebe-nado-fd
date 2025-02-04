@@ -19,7 +19,6 @@ body {
   flex-direction: row;
   gap: 32px;
   font-size: 18px;
-  list-style: circle;
   list-style: none;
 }
 
@@ -52,8 +51,10 @@ body {
   background-image: url(../images/cover.jpg);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
+  background-size: cover ;
 }
+
+
 
 .overlay {
   position: absolute;
